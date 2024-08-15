@@ -1,11 +1,25 @@
 {
-      "image1": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
-      "click1": "https://eleago.com",
-      "show1": true,
-      "image2": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
-      "click2": "https://eleago.com",
-      "show2": true,
-      "image3": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
-      "click3": "https://eleago.com",
-      "show3": true
+  "screens": [
+    {
+      "screenName": "home",
+      "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "clickUrl": "https://eleago.com",
+      "show": true,
+      "height": 55.0
+    },
+    {
+      "screenName": "chapter",
+      "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "clickUrl": "https://eleago.com",
+      "show": true,
+      "height": 55.0
+    },
+    {
+      "screenName": "readChapter",
+      "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "clickUrl": "https://eleago.com",
+      "show": true,
+      "height": 55.0
+    }
+  ]
 }
