@@ -1,20 +1,22 @@
-[
-    { 
-        "screen": "home",
-        "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
-        "click": "https://eleago.com",
-        "show": true
+{
+  "screens": [
+    {
+      "name": "home",
+      "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "click": "https://eleago.com",
+      "show": true
     },
-    { 
-        "screen": "chapter",
-        "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
-        "click": "https://eleago.com",
-        "show": true
+    {
+      "name": "chapter",
+      "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "click": "https://eleago.com",
+      "show": true
     },
-    { 
-        "screen": "readChapter",
-        "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
-        "click": "https://eleago.com",
-        "show": true
+    {
+      "name": "readChapter",
+      "image": "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "click": "https://eleago.com",
+      "show": true
     }
-]
+  ]
+}
