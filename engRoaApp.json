@@ -1,8 +1,36 @@
 { 
-  
+
+// home
 "image" : "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
 "click" : "https://eleago.com",
 "show" : true,
 "height" : 55.0
 
+}
+
+
+{
+  "screens": [
+    {
+      // home
+      "image1" : "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "click1" : "https://eleago.com",
+      "show1" : true,
+      "height1" : 55.0
+    },
+    {
+      // chapter
+      "image2" : "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "click2" : "https://eleago.com",
+      "show2" : true,
+      "height2" : 55.0
+    },
+    {
+      // read Chapter
+      "image3" : "https://i.ibb.co/h9B9cqn/469179-PGRZ3-P-823-ai-min.png",
+      "click3" : "https://eleago.com",
+      "show3" : true,
+      "height3" : 55.0
+    }
+  ]
 }
