@@ -1,14 +1,15 @@
 {
-  "id": "notif_0025",
-  "is_active": false,
+  "id": "notif_0028",
+  "is_active": true,
   "theme_color": "#bb3f6b",
 
-  "title": "عرض خاص!",
-  "message": "احصل على خصم 50٪ لفترة محدودة!",
-  "cta_text": "احصل عليه",
+  "title": "عالم الروايات المفتوح",
+  "message": "يمكنك تصفح الاف الروايات ونشر روايتك بشكل مجاني",
+  "cta_text": "حمل التطبيق",
 
-  "start_date": "2025-01-27T01:53:00",
-  "end_date": "2025-02-27T01:59:00",
-  "cta_url": "https://example.com/deal",
+  "start_date": "2025-09-12T01:53:00",
+  "end_date": "2025-11-12T01:59:00",
+  "cta_url": "https://play.google.com/store/apps/details?id=com.syrdroid.risha",
   "show_once": true
 }
+
