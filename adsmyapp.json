@@ -1,15 +1,16 @@
 {
-  "id": "notif_0029",
+  "id": "notif_0030",
   "is_active": true,
   "theme_color": "#bb3f6b",
 
   "title": "عالم الروايات المفتوح",
-  "message": "هل تحلم في نشر روايتك وتصفح الاف الروايات بشكل مجاني, اصبح التسجيل متاح.",
-  "cta_text": "سجل الان",
+  "message": "هل تحلم في نشر روايتك وتصفح الاف الروايات بشكل مجاني, اصبح التطبيق متاح.",
+  "cta_text": "حمله الان",
 
   "start_date": "2025-09-12T01:53:00",
   "end_date": "2025-11-14T01:59:00",
   "cta_url": "https://play.google.com/store/apps/details?id=com.syrdroid.risha",
   "show_once": true
 }
+
 
